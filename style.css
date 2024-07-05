@@ -1,0 +1,22 @@
+h1 {
+    color:red;
+    font-weight: 1000;
+    font-size: 200%;
+
+
+}
+ol {
+    color: rgb(0, 136, 255);
+    font-style: oblique;
+}
+p {
+    color: rgb(3, 68, 24);
+    font-style: oblique;
+    font-family: monospace;
+    font-size: 15px;
+}
+table {
+    background-color: rgb(254, 221, 151);
+    margin: 5px;
+    border-style: dotted;
+}
